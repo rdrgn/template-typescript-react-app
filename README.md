@@ -1,4 +1,4 @@
-# template-typescript-web-app
+# template-typescript-react-app
 
 My template repository for simple web apps written in TypeScript.
 
